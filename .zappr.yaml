@@ -13,7 +13,7 @@
 #   minimum: 3
 
 #   by default, the pull request opener can approve its own pull request
-#   uncomment this line to ignore approvals from the pull request opener
+    uncomment this line to ignore approvals from the pull request opener
 #   (there is also `last_committer` and `both`)
 #   ignore: pr_opener
 
