@@ -17,8 +17,8 @@
 #   (there is also `last_committer` and `both`)
 #   ignore: pr_opener
 
-#   by default, zappr counts everyone as a valid approver
-#   uncomment these lines to change it to only collaborators
-#   (you can also specify `orgs` and `users` and define `groups`)
-#   from:
-#     collaborators: true
+by default, zappr counts everyone as a valid approver
+uncomment these lines to change it to only collaborators
+(you can also specify `orgs` and `users` and define `groups`)
+from:
+collaborators: true
